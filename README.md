@@ -76,16 +76,10 @@ mcs 값을 8, 13, 18로 변경 후 시각화
 ![Untitled](https://github.com/paulsung97/Dgist_Intern_Ship/assets/63456050/c71a7d1f-4da5-4030-901b-104f234029a0)
 
 
-
-**- mcs = 8**
-
-**- mcs = 13**
-
-**- mcs = 18**
-
 ### 시각화
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2866c9cc-0910-4ff4-b25a-3461b1e7e8dc/Untitled.png)
+![Untitled](https://github.com/paulsung97/Dgist_Intern_Ship/assets/63456050/ca1bf9d1-5fa9-413f-90b4-a7a7907223c0)
+
 
 ## <결과>
 
