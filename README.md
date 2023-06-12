@@ -98,23 +98,30 @@ mcs 값을 8, 13, 18로 변경 후 시각화
 # Yolov7 모델을 이용한 해상도 채널 상태에 따른 mAP, Latency 평가
 
 ![image](https://github.com/paulsung97/Dgist_Intern_Ship/assets/63456050/23cd6c98-2cfb-4ec7-85d7-3c119dac650a)
+<br>
 학습 모델을 제작한 후 Yolov7의 직접 제작한 모델 정확도 평가를 확인해 보겠습니다. 전체적으로 Recall 값은 0.65, Precision 값은 0.75, mAP@0.5는 0.72, mAP@0.5:0.95는 0.42라는 결과가 나왔습니다.
-
-
+<br>
+<br>
 
 ![image](https://github.com/paulsung97/Dgist_Intern_Ship/assets/63456050/b4deccfd-9be2-495b-bebe-13b0b0f835e4)
+<br>
 "metrics/recall" 그래프는 재현율 그래프입니다. 재현율은 이미지 대상 전체 중 모델이 예측한 대상의 비율을 나타냅니다. 즉, 전체 대상에 대해 탐지를 해낸 값을 그래프로 표현한 것입니다. 그래프를 보면 꾸준히 증가하는 형태로 모델이 잘 탐지한 것을 확인할 수 있습니다. True Positive(TP)는 모델이 잘 탐지한 개수이며, False Negative(FN)는 모델이 놓친 개수로, FN은 낮고 TP는 높은 값을 가지고 있습니다. 이 모델의 탐지율은 약 65% 정도라고 할 수 있습니다.
-
+<br>
+<br>
 
 
 ![image](https://github.com/paulsung97/Dgist_Intern_Ship/assets/63456050/e4608f33-578c-40c5-892a-967c6dfebd2b)
+<br>
 "metrics/precision" 그래프는 정밀도 그래프입니다. 이 그래프는 모델이 탐지한 대상 중에서 실제로 제대로 탐지한 비율을 나타냅니다. 이 그래프를 통해 모델이 얼마나 정확하게 탐지했는지에 대한 비율을 확인할 수 있습니다. 이 모델의 정밀도는 약 75% 정도라고 할 수 있습니다. 
 recall과 precision 그래프를 통해 물체를 탐지할 확률은 65% 정도이며, 탐지한 물체를 제대로 인식할 확률은 75% 정도인 것을 알 수 있습니다.
-
+<br>
+<br>
 
 
 ![image](https://github.com/paulsung97/Dgist_Intern_Ship/assets/63456050/1e929447-be90-40a9-8c44-36214770c8e1)
+<br>
 "metrics/mAP" 값과 "metrics/precision" 값을 적분한 값을 기반으로 전체적인 정확도를 나타내는 mAP 정확도에 대해 알아보겠습니다. 
 먼저 "metrics/mAP@0.5"에 대해 알아보겠습니다. 이 그래프는 IoU (Intersection over Union) 값이 0.5인 경우의 mAP를 나타냅니다. 이는 객체를 50%만 잡아도 정답으로 인정하는 정확도를 의미합니다. 해당 그래프를 통해 전체적인 흐름을 빠르게 확인할 수 있으며, 약 72%의 정확도로 객체를 탐지할 수 있음을 알 수 있습니다.
-
+<br>
+<br>
 
