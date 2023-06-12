@@ -52,7 +52,7 @@ PC5 인터페이스는 sidelink 통신을 지원하며, 자원 할당 방식에 
 ![Untitled](https://github.com/paulsung97/Dgist_Intern_Ship/assets/63456050/ba739e54-0ea5-40d8-b0d1-66722ce55624)
 
 
-## <결론>
+## <결과>
 
 위 환경에서는 ptx_dBm의 값이 23을 기준으로 3씩 증가하거나 감소할 때의 수신율을 확인한 결과입니다. ptx_dBm 값이 증가하면 송신 전력이 높아져 수신율이 높아지는 것을 알 수 있습니다.
 
