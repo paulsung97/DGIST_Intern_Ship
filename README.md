@@ -6,7 +6,7 @@
 
 **수료증:**
 
-**연구 논문:**
+## 연구 논문:
 [Adaptive Transmit Power Control Algorithm for Sensing-Based Semi-Persistent Scheduling in C-V2X Mode 4 Comm.pdf](https://github.com/paulsung97/Dgist_Intern_Ship/files/11725686/Adaptive.Transmit.Power.Control.Algorithm.for.Sensing-Based.Semi-Persistent.Scheduling.in.C-V2X.Mode.4.Comm.pdf)
 [How_many_vehicles_in_the_LTE-V2V_awareness_range_with_half_or_full_duplex_radios.pdf](https://github.com/paulsung97/Dgist_Intern_Ship/files/11725704/How_many_vehicles_in_the_LTE-V2V_awareness_range_with_half_or_full_duplex_radios.pdf)
 
