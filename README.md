@@ -4,6 +4,8 @@
 
 **연구실:** Department of Electrical Engineering and Computer Science, Communication and Signal Processing Laboratory
 
+**최종 발표:**
+
 **수료증:**
 [23년_동계_수료증-73.pdf](https://github.com/paulsung97/Dgist_Intern_Ship/files/11725724/23._._.-73.pdf)
 
@@ -40,11 +42,10 @@ PC5 인터페이스는 sidelink 통신을 지원하며, 자원 할당 방식에 
 
 - ptx_dBm을 각각 17, 23, 29로 변경 후 시각화
 
-### 코드
-
 ### 시각화
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78bc4cda-c50d-4ff7-a4f5-526a07d86235/Untitled.png)
+![Untitled](https://github.com/paulsung97/Dgist_Intern_Ship/assets/63456050/ba739e54-0ea5-40d8-b0d1-66722ce55624)
+
 
 ## <결론>
 
@@ -55,8 +56,6 @@ PC5 인터페이스는 sidelink 통신을 지원하며, 자원 할당 방식에 
 - 메시지 크기를 100, 150, 200, 250로 변경 후 시각화
 
 mcs = 3, mcs = 12
-
-### 코드
 
 ### 시각화
 
