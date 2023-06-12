@@ -123,10 +123,34 @@ recall과 precision 그래프를 통해 물체를 탐지할 확률은 65% 정도
 
 ![image](https://github.com/paulsung97/Dgist_Intern_Ship/assets/63456050/e25735f7-bc0e-4057-bd81-403b68d649ef)
 <br>
+<br>
 "metrics/mAP" 값과 "metrics/precision" 값을 적분한 값을 기반으로 전체적인 정확도를 나타내는 mAP 정확도에 대해 알아보겠습니다. 
 먼저 "metrics/mAP@0.5"에 대해 알아보겠습니다. 이 그래프는 IoU (Intersection over Union) 값이 0.5인 경우의 mAP를 나타냅니다. 이는 객체를 50%만 잡아도 정답으로 인정하는 정확도를 의미합니다. 해당 그래프를 통해 전체적인 흐름을 빠르게 확인할 수 있으며, 약 72%의 정확도로 객체를 탐지할 수 있음을 알 수 있습니다.
 <br>
 <br>
 
-
-
+![image](https://github.com/paulsung97/Dgist_Intern_Ship/assets/63456050/7427c4cf-a855-4327-aa19-7546e1513894)
+<br>
+<br>
+정확도를 가장 자세히 표현한 metrics/mAP 0.5:0.95에 대해 확인하겠습니다. 이 그래프는 분자 영역에 색칠 돼 있는 부분이 0.5부터 0.95 사잇값을 1%에서 100%로 수치화시켜 처리한 그래프를 의미합니다. 이 그래프 또한 증가하는 양상을 보이지만, 정확도 면에서 metrics/mAP 0.5에 비해 모델은 탐지율이 42% 정도의 성능을 보여주고 있다는 것을 확인할 수 있었습니다.
+<br>
+<br>
+![image](https://github.com/paulsung97/Dgist_Intern_Ship/assets/63456050/3c3bcc58-4062-4b4c-b355-5b2ea9210bd5)
+<br>
+<br>
+제작한 모델을 통해 10,000개의 Test 이미지 데이터셋을 활용해 측정을 진행 하였습니다. 실험은 총 2개를 진행하였고, 먼저 첫 번째 실험은 이미지 크기에 따른 mAP값에 차이를 확인하였으며 이미지는 1280x720 ~ 320x180 크기까지 총 7가지 크기에 따른 mAP값을 측정하였습니다. 
+다음 실험은 해상도 채널 상태에 따른 mAP 값 및 레이턴시를 측정하였습니다. 이는 1280x720 사진을 기준으로 두었으며, 40~100m 까지 의 거리에 따른 해상도 채널 상태의 변화를 측정해 보았습니다.
+<br>
+<br> 
+![image](https://github.com/paulsung97/Dgist_Intern_Ship/assets/63456050/64b09f3c-2dc5-4ebc-bd78-e1892caba1e8)
+<br>
+<br>
+첫 번째 실험인 이미지 크기에 따른 mAP값의 차이를 확인하는 그래프입니다. 이미지의 사이즈가 클수록 정확한 이미지를 담고 있기에 탐지율이 높은 것을 알 수 있었습니다.
+<br>
+<br>
+![image](https://github.com/paulsung97/Dgist_Intern_Ship/assets/63456050/220fd2f3-d00e-47b4-8177-0e310860ad04)
+<br>
+<br>
+100m의 거리에 따른 Test 이미지셋을 모델이 탐지하는 장면입니다. mAP 0.179 값을 도출하는 과정의 장면이며, 보시는 그림 1번 사진은 실제 위치에 존재하는 것에 대한 label 데이터 이며 그림 2번 사진은 모델이 직접 예측한 이미지입니다.
+<br>
+<br>
