@@ -73,8 +73,9 @@ mcs 값을 8, 13, 18로 변경 후 시각화
 [mcs: 전송 속도 결정]
 
 ### 코드
+![Untitled](https://github.com/paulsung97/Dgist_Intern_Ship/assets/63456050/c71a7d1f-4da5-4030-901b-104f234029a0)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e45718f-a829-4c85-89eb-dc959fcf23f5/Untitled.png)
+
 
 **- mcs = 8**
 
