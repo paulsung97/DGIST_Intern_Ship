@@ -11,7 +11,7 @@
 
 
 **수료증:**
-![image](https://github.com/paulsung97/Dgist_Intern_Ship/assets/63456050/6b8e072f-1fbf-445e-a3b0-7b11b3fba3d9)
+#### ![image](https://github.com/paulsung97/Dgist_Intern_Ship/assets/63456050/6b8e072f-1fbf-445e-a3b0-7b11b3fba3d9)
 
 
 ## 연구 논문:
