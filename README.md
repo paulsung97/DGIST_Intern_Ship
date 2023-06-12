@@ -6,6 +6,9 @@
 
 **최종 발표:**
 
+**기술 스택:** YOLOv7, MATLAB, Python, R programming
+
+
 **수료증:**
 [23년_동계_수료증-73.pdf](https://github.com/paulsung97/Dgist_Intern_Ship/files/11725724/23._._.-73.pdf)
 
