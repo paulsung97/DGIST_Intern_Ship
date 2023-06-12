@@ -7,7 +7,9 @@
 **수료증:**
 
 **연구 논문:**
-https://file.notion.so/f/s/f9545acc-cd3a-49bd-91e8-6851d686666e/Adaptive_Transmit_Power_Control_Algorithm_for_Sensing-Based_Semi-Persistent_Scheduling_in_C-V2X_Mode_4_Comm.pdf?id=da9be1b7-74e9-4328-9347-4755a6347fb8&table=block&spaceId=1cd4749f-1157-42d5-b641-2762b8b359b8&expirationTimestamp=1686674017713&signature=foL-ufC7LsowUtneITtzwEJG7Ex8K13XCt2qBn5a9kQ&downloadName=Adaptive+Transmit+Power+Control+Algorithm+for+Sensing-Based+Semi-Persistent+Scheduling+in+C-V2X+Mode+4+Comm.pdf
+[Adaptive Transmit Power Control Algorithm for Sensing-Based Semi-Persistent Scheduling in C-V2X Mode 4 Comm.pdf](https://github.com/paulsung97/Dgist_Intern_Ship/files/11725686/Adaptive.Transmit.Power.Control.Algorithm.for.Sensing-Based.Semi-Persistent.Scheduling.in.C-V2X.Mode.4.Comm.pdf)
+[Uploading How_many_vehicles_in_the_LTE-V2V_awareness_range_with_half_or_full_duplex_radios.pdf…]()
+
 
 # V2X
 
