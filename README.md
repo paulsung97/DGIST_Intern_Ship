@@ -1,6 +1,6 @@
 # Dgist_Intern_Ship
 
-**활동:** 2022.12.26-2023.01.31
+**활동:** 2022.12.26 - 2023.01.31
 
 **연구실:** Department of Electrical Engineering and Computer Science, Communication and Signal Processing Laboratory
 
