@@ -4,7 +4,7 @@
 
 **연구실:** Department of Electrical Engineering and Computer Science, Communication and Signal Processing Laboratory
 
-**최종 발표:**
+**최종 발표:** Yolov7 모델을 이용한 해상도 채널 상태에 따른 mAP, Latency 평가
 
 **기술 스택:** YOLOv7, MATLAB, Python, R programming
 
