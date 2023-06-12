@@ -4,6 +4,11 @@
 
 **연구실:** Department of Electrical Engineering and Computer Science, Communication and Signal Processing Laboratory
 
+**수료증:**
+
+**연구 논문:**
+https://file.notion.so/f/s/f9545acc-cd3a-49bd-91e8-6851d686666e/Adaptive_Transmit_Power_Control_Algorithm_for_Sensing-Based_Semi-Persistent_Scheduling_in_C-V2X_Mode_4_Comm.pdf?id=da9be1b7-74e9-4328-9347-4755a6347fb8&table=block&spaceId=1cd4749f-1157-42d5-b641-2762b8b359b8&expirationTimestamp=1686674017713&signature=foL-ufC7LsowUtneITtzwEJG7Ex8K13XCt2qBn5a9kQ&downloadName=Adaptive+Transmit+Power+Control+Algorithm+for+Sensing-Based+Semi-Persistent+Scheduling+in+C-V2X+Mode+4+Comm.pdf
+
 # V2X
 
 V2X(Vehicle-to-Everything)는 차량 간 연결 통신을 의미하며, V2X 메시지를 통해 실시간으로 속도, 위치, 방향 등의 정보를 교환합니다. 이를 통해 주행 안정성, 교통 효율, 연료 효율 등을 향상시킬 수 있습니다. V2X 메시지는 자율주행의 수준이 높아질수록 많은 센서 데이터가 들어오므로 메시지 용량도 증가합니다. 이를 해결하기 위해 엣지 컴퓨팅 기술이 사용됩니다. 엣지 컴퓨팅은 사용자 또는 데이터 소스의 물리적 위치 또는 그 근처에서 컴퓨팅을 수행하는 것을 말합니다. 엣지 컴퓨팅을 사용하면 사용자는 더 빠르고 안정적인 서비스를 받을 수 있고 기업은 유연한 하이브리드 클라우드 컴퓨팅의 이점을 얻을 수 있습니다. 엣지 컴퓨팅은 기업이 여러 위치에서 공통의 리소스 풀을 사용하여 데이터 연산 및 처리를 분산시키는 방법 중 하나입니다.
