@@ -40,7 +40,7 @@ PC5 인터페이스는 sidelink 통신을 지원하며, 자원 할당 방식에 
 
 ## <실험 1번>
 
-- ptx_dBm을 각각 17, 23, 29로 변경 후 시각화
+- ptx_dBm을 각각 20, 23, 26로 변경 후 시각화
 
 ### 시각화
 
@@ -59,7 +59,8 @@ mcs = 3, mcs = 12
 
 ### 시각화
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1a8c3d17-79d2-4678-b4fc-4d2a39d76097/Untitled.png)
+
+![Untitled](https://github.com/paulsung97/Dgist_Intern_Ship/assets/63456050/19ce7722-35bf-4899-ba0e-774a69c3f5db)
 
 ## <결과>
 
